@@ -1,0 +1,10 @@
+C:\Users\Moon\source\repos\lab5Proj\lab5ProjML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Moon\source\repos\lab5Proj\lab5ProjML.Model\bin\Debug\netstandard2.0\lab5ProjML.Model.deps.json
+C:\Users\Moon\source\repos\lab5Proj\lab5ProjML.Model\bin\Debug\netstandard2.0\lab5ProjML.Model.dll
+C:\Users\Moon\source\repos\lab5Proj\lab5ProjML.Model\bin\Debug\netstandard2.0\lab5ProjML.Model.pdb
+C:\Users\Moon\source\repos\lab5Proj\lab5ProjML.Model\obj\Debug\netstandard2.0\lab5ProjML.Model.csprojAssemblyReference.cache
+C:\Users\Moon\source\repos\lab5Proj\lab5ProjML.Model\obj\Debug\netstandard2.0\lab5ProjML.Model.AssemblyInfoInputs.cache
+C:\Users\Moon\source\repos\lab5Proj\lab5ProjML.Model\obj\Debug\netstandard2.0\lab5ProjML.Model.AssemblyInfo.cs
+C:\Users\Moon\source\repos\lab5Proj\lab5ProjML.Model\obj\Debug\netstandard2.0\lab5ProjML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Moon\source\repos\lab5Proj\lab5ProjML.Model\obj\Debug\netstandard2.0\lab5ProjML.Model.dll
+C:\Users\Moon\source\repos\lab5Proj\lab5ProjML.Model\obj\Debug\netstandard2.0\lab5ProjML.Model.pdb
